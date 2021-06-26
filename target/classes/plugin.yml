@@ -1,0 +1,7 @@
+name: Rpgcoreskill
+version: 1.0-SNAPSHOT
+main: com.github.kinoko_team.rpgcoreskill.Rpgcoreskill
+api-version: 1.16
+authors: [ kinoko_2k ]
+description: The Firstmemory Network RPG Core Plugin
+website: kinoko2k.github.io
