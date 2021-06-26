@@ -51,9 +51,7 @@ public final class Rpgcoreskill extends JavaPlugin implements Listener {
             }
         }
     }
-    /***
-     * マウスのカーソルがフォーカスしているブロックを取得（しゅとく）する
-     */
+
     private Block getCursorFocusBlock(Player player) {
 
 
